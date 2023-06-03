@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-blog/build/static/css/main.d6d5d7a5.css",
+    "main.js": "/react-blog/build/static/js/main.032ab8e1.js",
+    "static/js/787.9e0c1f39.chunk.js": "/react-blog/build/static/js/787.9e0c1f39.chunk.js",
+    "static/media/logo.svg": "/react-blog/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-blog/build/index.html",
+    "main.d6d5d7a5.css.map": "/react-blog/build/static/css/main.d6d5d7a5.css.map",
+    "main.032ab8e1.js.map": "/react-blog/build/static/js/main.032ab8e1.js.map",
+    "787.9e0c1f39.chunk.js.map": "/react-blog/build/static/js/787.9e0c1f39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d5d7a5.css",
+    "static/js/main.032ab8e1.js"
+  ]
+}
